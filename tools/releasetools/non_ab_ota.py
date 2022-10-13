@@ -228,7 +228,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
 
   script.Print("=================================================");
   script.Print("");
-  script.Print("                    PixelOS");
+  script.Print("                    FRANXX_OS");
   script.Print("");
   script.Print("=================================================");
   script.Print(" Android version  : %s"%(android_version));
